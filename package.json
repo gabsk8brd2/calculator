@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "pao de queijo ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Lima",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^11.11.1"
+  }
+}
